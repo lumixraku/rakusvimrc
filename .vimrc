@@ -33,7 +33,7 @@ syntax on
 
 
 " Options.
-
+set paste
 set autoindent
 set backspace=2		" Allows insert-mode backspace to work as one expects
 set cindent
